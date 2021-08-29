@@ -163,9 +163,9 @@ disableHugoGeneratorInject = false
     name = "twitter"
     url  = "https://twitter.com/rchaeology1"
 
-  [[params.social]]
-    name = "email"
-    url  = "mailto:nobody@example.com"
+#  [[params.social]]
+#    name = "email"
+#    url  = "mailto:nobody@example.com"
 
   [[params.social]]
     name = "facebook"
@@ -185,10 +185,10 @@ disableHugoGeneratorInject = false
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-  [languages.fr]
-    subtitle  = "Hello Friend NG Theme"
-    weight    = 2
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+#  [languages.fr]
+#    subtitle  = ""
+#    weight    = 2
+#    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 #[menu]
 #  [[menu.main]]
