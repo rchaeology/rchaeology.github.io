@@ -53,3 +53,50 @@
   src: url("../fonts/Inter-UI-BoldItalic.woff2") format("woff2"),
        url("../fonts/Inter-UI-BoldItalic.woff") format("woff");
 }
+
+// rchaeology
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style:  normal;
+  font-display: auto;
+  font-weight: 400;
+  src: url("https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap");
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style:  italic;
+  font-display: auto;
+  font-weight: 400;
+  src: url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital@1&display=swap"),
+}
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style:  normal;
+  font-display: auto;
+  font-weight: 600;
+  src: url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@600&display=swap");
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style:  italic;
+  font-display: auto;
+  font-weight: 600;
+  src: url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@1,600&display=swap");
+}
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style:  normal;
+  font-display: auto;
+  font-weight: 700;
+  src: url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@700&display=swap");
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style:  italic;
+  font-display: auto;
+  font-weight: 800;
+  src: url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@1,700&display=swap");
+}

@@ -1,5 +1,5 @@
 baseURL = "https://rchaeology.github.io"
-title   = ">Rchaeology"
+title   = "Rchaeology"
 languageCode = "en-us"
 theme = ["rchaeology", "hello-friend-ng"]
 
@@ -112,13 +112,12 @@ disableHugoGeneratorInject = false
   [params.footer]
     trademark = true
     rss = true
-    copyright = true
+    copyright = false
     author = true
 
     topText = []
     bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a> and the <a href=\"https://github.com/rhazdon\">Hello Friend NG</a> theme",
-      "Made with &#10084; by Rchaeology"
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a> and the <a href=\"https://github.com/rhazdon\">Hello Friend NG</a> theme"
     ]
 
 
@@ -190,11 +189,11 @@ disableHugoGeneratorInject = false
 #    weight    = 2
 #    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-#[menu]
-#  [[menu.main]]
-#    identifier = "about"
-#    name       = "About"
-#    url        = "about/"
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "./about"
+    url        = "about/"
 #  [[menu.main]]
 #    identifier = "posts"
 #    name       = "Posts"
