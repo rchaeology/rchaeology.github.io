@@ -5,17 +5,18 @@ author: "Rchaeology"
 draft: true
 toc: false
 images:
+cover: ""
+covercaption: ""
 tags:
   - hugo
 ---
-
-{{< image src="./static/img/hello-world.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
-
 
 ## New Website
 
 To increase our visibility, we have launched a new website (which you have obviously 
 already found) using the ['Hello Friend NG'](https://github.com/rhazdon/hugo-theme-hello-friend-ng) Hugo theme, with some slight tweaks.
+
+{{<figure src="https://giphy.com/gifs/MiniMaison-new-baby-newbaby-birthannoucement-OBnIvqqpKFbZam9Wmj" link="https://giphy.com/gifs/MiniMaison-new-baby-newbaby-birthannoucement-OBnIvqqpKFbZam9Wmj" >}}
 
 ## Goals
 

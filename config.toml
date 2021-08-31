@@ -117,7 +117,7 @@ disableHugoGeneratorInject = false
 
     topText = []
     bottomText = [
-      "Powered by <a href=\"http://gohugo.io\">Hugo</a> and the <a href=\"https://github.com/rhazdon\">Hello Friend NG</a> theme"
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/rhazdon\">Hello Friend NG</a>"
     ]
 
 
@@ -189,12 +189,12 @@ disableHugoGeneratorInject = false
 #    weight    = 2
 #    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-[menu]
-  [[menu.main]]
-    identifier = "about"
-    name       = "about/"
-    url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "posts/"
-    url        = "posts/"
+#[menu]
+#  [[menu.main]]
+#    identifier = "about"
+#    name       = "about/"
+#    url        = "about/"
+#  [[menu.main]]
+#    identifier = "posts"
+#    name       = "posts/"
+#    url        = "posts/"
