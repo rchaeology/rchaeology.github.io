@@ -168,7 +168,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "facebook"
-    url  = "mailto:nobody@example.com"
+    url  = "https://www.facebook.com/groups/255505722163268"
 
   [[params.social]]
     name = "github"
