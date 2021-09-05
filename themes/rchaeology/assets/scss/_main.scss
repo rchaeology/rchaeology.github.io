@@ -218,6 +218,7 @@ code {
   margin: 0 2px;
   border-radius: 5px;
   font-size: 0.95rem;
+  color: #fe5186;
   // Default
   background: $light-background-secondary;
 
@@ -230,11 +231,11 @@ code {
   }
 
   [data-theme=dark] & {
-    background: $dark-background-secondary;
+    background: transparent;
   }
 
   [data-theme=light] & {
-    background: $light-background-secondary;
+    background: transparent;
   }
 }
 
@@ -278,7 +279,7 @@ pre {
     }
   
     [data-theme=light] & {
-      color: #ccc;
+      color: #fe5186;
     }
   }
 }
