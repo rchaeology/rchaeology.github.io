@@ -42,7 +42,7 @@ Then use blogdown to install hugo:
 blogdown::install_hugo()
 ```
 
-Then you can serve the site. To do this you must set your working directory as the 
+You can now serve the site. To do this you must set your working directory as the 
 root of the site. This will preview the site in the Viewer pane of RStudio.
 
 ```r
