@@ -5,8 +5,9 @@ author: "Rchaeology"
 draft: true
 toc: false
 images:
-cover: ""
-covercaption: ""
+cover: "img/cover.jpg"
+alt: "Cardboard man with glasses in front of some code, which says Hello World"
+covercaption: "[**Image credit:** KOBU Agency (Unsplash)](https://unsplash.com/photos/67L18R4tW_w/)"
 tags:
   - hugo
 ---
@@ -14,14 +15,12 @@ tags:
 ## New Website
 
 To increase our visibility, we have launched a new website (which you have obviously 
-already found) using the ['Hello Friend NG'](https://github.com/rhazdon/hugo-theme-hello-friend-ng) Hugo theme, with some slight tweaks.
-
-{{<figure src="https://giphy.com/gifs/MiniMaison-new-baby-newbaby-birthannoucement-OBnIvqqpKFbZam9Wmj" link="https://giphy.com/gifs/MiniMaison-new-baby-newbaby-birthannoucement-OBnIvqqpKFbZam9Wmj" >}}
+already found) using the [Hello Friend NG](https://github.com/rhazdon/hugo-theme-hello-friend-ng) [Hugo](https://gohugo.io) theme, with some slight tweaks.
 
 ## Goals
 
-With this new platform, we aim to provide general resources<!-- link to resources page --> to beginners, as well as more advanced topics 
-in archaeology and related disciplines.
+With this new platform, we aim to provide general R resources to beginners, as well 
+as more advanced R topics in archaeology and related disciplines.
 
 ## Contribute
 
