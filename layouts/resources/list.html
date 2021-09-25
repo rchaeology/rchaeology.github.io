@@ -8,26 +8,31 @@
             <div class="content">{{ .Content }}</div>
         {{ end }}
 
+            <div>
+                <h2>Beginners</h2>
+            </div>
+
+            <div>
+                <h2>Teaching</h2>
+            </div>
+
+            <div>
+                <h2>Archaeology</h2>
+            </div>
+
         {{ range $paginator.Pages.GroupByDate "2006" }}
             <div class="resources-group">
-                <div class="resource-year">{{ .Key }}</div>
-
-                <ul class="resources-list">
-                    {{ range .Pages }}
-                        <li class="post-item">
-                            <a href="{{.Permalink}}">
-                                <span class="post-title">{{.Title}}</span>
-                                <span class="post-day">
-                                    {{ if .Site.Params.dateformShort }}
-                                        {{ .Date.Format .Site.Params.dateformShort }}
-                                    {{ else }}
-                                        {{ .Date.Format "Jan 2"}}
-                                    {{ end }}
-                                </span>
-                            </a>
-                        </li>
-                    {{ end }}
-                </ul>
+                    
+                    <ul class="resources-list">
+                        {{ range .Pages }}
+                            <li class="resource-item">
+                                <a href="{{.Permalink}}">
+                                    <span class="resource-title">{{.Title}}</span>
+                                </a>
+                            </li>
+                        {{ end }}
+                    </ul>
+                </div>
             </div>
         {{ end }}
     {{ partial "pagination-list.html" . }}
