@@ -10,7 +10,8 @@ alt: "Cardboard man with glasses in front of some code, which says Hello World"
 covercaption: "[**Image credit:** KOBU Agency (Unsplash)](https://unsplash.com/photos/67L18R4tW_w/)"
 tags:
   - hugo
-category: beginners
+categories: 
+  - beginners
 ---
 
 ## An example of a Resource
