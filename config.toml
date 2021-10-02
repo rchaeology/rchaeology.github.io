@@ -198,7 +198,7 @@ disableHugoGeneratorInject = false
 #    identifier = "posts"
 #    name       = "posts/"
 #    url        = "posts/"
-#  [[menu.main]]
-#    identifier = "resources"
-#    name       = "resources/"
-#    url        = "resources/"
+  [[menu.main]]
+    identifier = "resources"
+    name       = "resources/"
+    url        = "resources/"
