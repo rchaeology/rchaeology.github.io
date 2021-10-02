@@ -1,0 +1,64 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Rchaeology</title><link>https://rchaeology.github.io/posts/</link><description>Recent content in Posts on Rchaeology</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Sat, 04 Sep 2021 00:00:00 +0200</lastBuildDate><atom:link href="https://rchaeology.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Blogging with R Markdown</title><link>https://rchaeology.github.io/posts/2021/09/blogging-with-r-markdown/</link><pubDate>Sat, 04 Sep 2021 00:00:00 +0200</pubDate><guid>https://rchaeology.github.io/posts/2021/09/blogging-with-r-markdown/</guid><description>Contributing There are multiple ways to contribute a blog post.
+The simplest way is to contact us, and provide a blog post in whatever format you feel comfortable writing.
+To streamline the process, providing an Rmd document with the blog post will make the process quicker.
+The best quickest way to contribute, is to fork the repository on GitHub, create the blog post, and submit a pull request.</description><content type="html"><![CDATA[
+<script src="https://rchaeology.github.io/posts/2021/09/blogging-with-r-markdown/index_files/header-attrs/header-attrs.js"></script>
+
+
+<div id="contributing" class="section level2">
+<h2>Contributing</h2>
+<p>There are multiple ways to contribute a blog post.</p>
+<p>The simplest way is to contact us, and provide a blog post in whatever format you
+feel comfortable writing.</p>
+<p>To streamline the process, providing an Rmd document with the blog post will
+make the process quicker.</p>
+<p>The best quickest way to contribute, is to <a href="#fork">fork</a> the repository on GitHub, create the blog
+post, and submit a pull request.</p>
+</div>
+<div id="writing-an-rmd-document" class="section level2">
+<h2>Writing an Rmd document</h2>
+<p>You will need the following yaml header:</p>
+<pre class="yaml"><code>---
+title: &quot;Your Blog Title Here&quot;
+date: 2021-09-01T00:00:00+02:00 # change the date
+author: &quot;Your name here&quot;
+draft: false
+toc: false # change this to &#39;true&#39; if you want to display a table of contents
+images:
+cover: &quot;&quot; # path to cover image
+covercaption: &quot;&quot; # caption for the cover image
+tags: # select tags appropriate for the post
+  - R
+  - R Markdown
+---</code></pre>
+</div>
+<div id="fork" class="section level2">
+<h2>Fork ’n write</h2>
+<p>To do this, you will need a GitHub account, and have Hugo installed.</p>
+<p>You can install Hugo with the <strong>blogdown</strong> package:</p>
+<pre class="r"><code>install.packages(&quot;blogdown&quot;)
+
+blogdown::install_hugo()</code></pre>
+<div id="creating-a-new-post" class="section level3">
+<h3>Creating a new post</h3>
+<p>The quickest way to start a new post is to use <code>hugo new posts/&lt;name-of-post&gt;/&lt;name-of-post&gt;.Rmd</code>,
+substituting <code>&lt;name-of-post&gt;</code> with a computer-friendly name (i.e. using hyphens instead
+of spaces).</p>
+<p>This will create a new file called <code>&lt;name-of-post&gt;.Rmd</code> with the following YAML
+header:</p>
+<pre class="yaml"><code>---
+title: &quot;Name of Post&quot;
+date: 2021-09-05T14:12:00+02:00
+draft: true
+toc: false
+images:
+tags:
+  - untagged
+---</code></pre>
+<p>Or, you can do this in RStudio with the <strong>blogdown</strong> package:</p>
+<pre class="r"><code>blogdown::new_content(&quot;posts/&lt;name-of-post&gt;/&lt;name-of-post&gt;.Rmd)</code></pre>
+<p>Once you have finished creating your post, you can run <code>blogdown::serve_site()</code>
+to render the post in the appropriate format, and view it in the Viewer tab.</p>
+</div>
+</div>
+]]></content></item></channel></rss>

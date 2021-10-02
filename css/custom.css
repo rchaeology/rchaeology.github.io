@@ -1,0 +1,26 @@
+  /* Style the buttons */
+  .btn {
+    border: none;
+    outline: none;
+    padding: 12px 16px;
+    background-color: #f1f1f1;
+    cursor: pointer;
+  }
+  
+  /* Add a light grey background on mouse-over */
+  .btn:hover {
+    background-color: #ddd;
+  }
+  
+  /* Add a dark background to the active button */
+  .btn.active {
+    background-color: #666;
+    color: white;
+  }
+
+  /* Resources page styling */
+
+.resource-title {
+  font-size: x-large;
+}
+  
