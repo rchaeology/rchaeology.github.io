@@ -12,8 +12,6 @@
         </div>
 
         <article>
-            <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
-
             {{ if .Params.Cover }}
                 <figure class="post-cover">
                     <img src="{{ .Params.Cover | absURL }}" alt="{{ .Title }}" />
@@ -23,6 +21,9 @@
                     {{ end }}
                 </figure>
             {{ end }}
+            
+            <h2 class="post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
+
             
             {{ if .Params.toc }}
                 <hr />

@@ -1,67 +1,25 @@
 {{ define "main" }}
     {{ $paginator := .Paginate .Data.Pages }}
     
-    <main class="resources">
+    <main class="posts">
         <h1>{{ .Title }}</h1>
 
         {{ if .Content }}
             <div class="content">{{ .Content }}</div>
         {{ end }}
 
-            <div>
-                <h2>Beginners</h2>
-            </div>
-
-            <div>
-                <h2>Teaching</h2>
-            </div>
-
-            <div>
-                <h2>Archaeology</h2>
-            </div>
-
-            <!-- testing filter -->
-
-            <div id="myBtnContainer">
-                <button class="btn active" onclick="filterSelection('all')"> Show all</button>
-                <button class="btn" onclick="filterSelection('cars')"> Cars</button>
-                <button class="btn" onclick="filterSelection('animals')"> Animals</button>
-                <button class="btn" onclick="filterSelection('fruits')"> Fruits</button>
-                <button class="btn" onclick="filterSelection('colors')"> Colors</button>
-              </div>
-              
-              <!-- The filterable elements. Note that some have multiple class names (this can be used if they belong to multiple categories) -->
-              <div class="container">
-                <div class="filterDiv cars">BMW</div>
-                <div class="filterDiv colors fruits">Orange</div>
-                <div class="filterDiv cars">Volvo</div>
-                <div class="filterDiv colors">Red</div>
-                <div class="filterDiv cars animals">Mustang</div>
-                <div class="filterDiv colors">Blue</div>
-                <div class="filterDiv animals">Cat</div>
-                <div class="filterDiv animals">Dog</div>
-                <div class="filterDiv fruits">Melon</div>
-                <div class="filterDiv fruits animals">Kiwi</div>
-                <div class="filterDiv fruits">Banana</div>
-                <div class="filterDiv fruits">Lemon</div>
-                <div class="filterDiv animals">Cow</div>
-              </div>
-
-              <!-- end: testing filter -->
-
         {{ range $paginator.Pages.GroupByDate "2006" }}
-            <div class="resources-group">
-                    
-                    <ul class="resources-list">
-                        {{ range .Pages }}
-                            <li class="resource-item">
-                                <a href="{{.Permalink}}">
-                                    <span class="resource-title">{{.Title}}</span>
-                                </a>
-                            </li>
-                        {{ end }}
-                    </ul>
-                </div>
+            <div class="posts-group">
+                
+                <ul class="posts-list">
+                    {{ range .Pages }}
+                        <li class="post-item">
+                            <a href="{{.Permalink}}">
+                                <span class="post-title">{{.Title}}</span>
+                            </a>
+                        </li>
+                    {{ end }}
+                </ul>
             </div>
         {{ end }}
     {{ partial "pagination-list.html" . }}
