@@ -2,7 +2,7 @@
 title: "Blogging with R Markdown"
 date: 2021-09-04T00:00:00+02:00
 author: "Rchaeology"
-draft: false
+draft: true
 toc: false
 images:
 cover: ""
