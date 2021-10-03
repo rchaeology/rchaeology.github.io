@@ -17,11 +17,11 @@ categories:
 
 So you want to learn R? Here are some resources that will help you on your jouRney to awesomeness!
 
-## :computer: Installing R and RStudio
+## :technologist: Installing R and RStudio
 
 - Danielle Navarro [slides](https://slides.djnavarro.net/installing-r/#1) and [youtube video](https://www.youtube.com/watch?v=ay25o485YXs&list=PLRPB0ZzEYegOZivdelOuEn-R-XUN-DOjd)
 
-## Console
+## :keyboard: Console
 
 - **swirl** R package
 
