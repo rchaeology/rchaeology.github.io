@@ -19,7 +19,7 @@ already found) using the [Hello Friend NG](https://github.com/rhazdon/hugo-theme
 
 ## Goals
 
-With this new platform, we aim to provide general R resources to beginners, as well 
+With this new platform, we aim to provide general R resources to beginners, as well
 as more advanced R topics in archaeology and related disciplines.
 
 ## Contribute
