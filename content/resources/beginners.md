@@ -2,7 +2,7 @@
 title: "Beginners"
 date: 2021-08-31T12:04:39+02:00
 author: "Rchaeology"
-draft: true
+draft: false
 toc: true
 images:
 cover: "https://github.com/allisonhorst/stats-illustrations/raw/master/rstats-blanks/rtwitter_blank.png"
