@@ -25,7 +25,7 @@ So you want to learn R? Here are some resources that will help you on your jouRn
 
 - **swirl** R package
 
-```
+```r
 # enter the following in the R console
 install.packages("swirl")
 library("swirl")
