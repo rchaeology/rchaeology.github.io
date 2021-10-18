@@ -1,16 +1,16 @@
 ---
 title: "Blogging with R Markdown"
-date: 2021-09-04T00:00:00+02:00
 author: "Rchaeology"
+date: '2021-09-04T00:00:00+02:00'
 draft: true
-toc: false
-images:
-cover: ""
-covercaption: ""
+toc: no
+images: null
+cover: ''
+covercaption: ''
 tags:
-  - R
-  - R Markdown
-  - tutorial
+- R
+- R Markdown
+- tutorial
 ---
 
 ## Contributing
@@ -86,4 +86,4 @@ blogdown::new_content("posts/<name-of-post>/<name-of-post>.Rmd)
 ```
 
 Once you have finished creating your post, you can run `blogdown::serve_site()`
-to render the post in the appropriate format, and view it in the Viewer tab.
+to render the post in the appropriate format, and view it in the 'Viewer' tab.
