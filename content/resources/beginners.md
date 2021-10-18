@@ -25,7 +25,7 @@ So you want to learn R? Here are some resources that will help you on your jouRn
 
 - **swirl** R package
 
-```
+```r
 # enter the following in the R console
 install.packages("swirl")
 library("swirl")
@@ -44,3 +44,5 @@ library("swirl")
 - [R for Data Science](https://r4ds.had.co.nz) - open source textbook by Hadley Wickham
 
 - [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) - open source textbook by Nathaniel Phillips
+
+- [An Introduction to R](https://intro2r.com/) - open source textbook by Alex Douglas *et al.*
