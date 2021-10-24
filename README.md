@@ -9,9 +9,10 @@ A [Hugo](https://gohugo.io/) site hosted by GitHub at <https://rchaeology.github
 To work on the site locally before submitting a pull request, [fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) this repository and clone your fork **with the `--recursive` flag**:
 
 ```shell
-git clone --recursive https://github.com/<username>/sslarch.github.io
+git clone --recursive https://github.com/<username>/rchaeology.github.io.git
 ```
-The `--recursive` flag ensures that you also get the [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) containing the site's theme.
+
+**Important:** The `--recursive` flag ensures that you also get the [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) containing the site's theme. Without the theme, the site won't render properly.
 
 If you already have a clone, but without the submodule you can run
 
