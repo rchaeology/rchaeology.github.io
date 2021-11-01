@@ -5,7 +5,7 @@ author: "Rchaeology"
 draft: false
 toc: true
 images:
-cover: "https://github.com/allisonhorst/stats-illustrations/raw/master/rstats-blanks/rtwitter_blank.png"
+cover: "img/r_first_then_blank.png"
 alt: "Two figures standing in front of an open door with R above it."
 covercaption: "[**Image credit:** Allison Horst](https://github.com/allisonhorst/stats-illustrations)"
 tags:
@@ -17,7 +17,7 @@ categories:
 
 So you want to learn R? Here are some resources that will help you on your jouRney to awesomeness!
 
-## :technologist: Installing R and RStudio
+## :computer: Installing R and RStudio
 
 - Danielle Navarro [slides](https://slides.djnavarro.net/installing-r/#1) and [youtube video](https://www.youtube.com/watch?v=ay25o485YXs&list=PLRPB0ZzEYegOZivdelOuEn-R-XUN-DOjd)
 
@@ -31,7 +31,7 @@ install.packages("swirl")
 library("swirl")
 ```
 
-## :teacher: Online Courses
+## :school: Online Courses
 
 - [Getting Started with R](https://rfortherestofus.com/courses/getting-started/) - free course by R for the Rest of Us
 
