@@ -1,8 +1,8 @@
 ---
 title: "print('Hello World')"
-date: 2021-08-31T12:04:39+02:00
+date: 2021-11-21T00:00:00+02:00
 author: "Rchaeology"
-draft: true
+draft: false
 toc: false
 images:
 cover: "img/cover.jpg"
@@ -19,9 +19,12 @@ already found) using the [Hello Friend NG](https://github.com/rhazdon/hugo-theme
 
 ## Goals
 
-With this new platform, we aim to provide general R resources to beginners, as well
-as more advanced R topics in archaeology and related disciplines.
+With this new platform, we aim to provide a convenient, centralised location for all your Rchaeological needs, from general R resources for beginners, to more advanced R topics in archaeology and related disciplines.
+
+We will offer occasional posts on various topics on a completely unpredictable schedule. You can subscribe to our RSS feed [here](https://rchaeology.github.io/posts/index.xml).
 
 ## Contribute
 
 You can contribute to the website via the [GitHub repository](https://github.com/rchaeology/rchaeology.github.io).
+
+To learn more, visit the [about](https://rchaeology.github.io/about) page.
