@@ -191,14 +191,17 @@ disableHugoGeneratorInject = false
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name       = "about/"
-    url        = "about/"
-#  [[menu.main]]
-#    identifier = "posts"
-#    name       = "posts/"
-#    url        = "posts/"
+    identifier = "posts"
+    name       = "posts/"
+    url        = "posts/"
+    weight     = 10
   [[menu.main]]
     identifier = "resources"
     name       = "resources/"
     url        = "resources/"
+    weight     = 20
+  [[menu.main]]
+    identifier = "about"
+    name       = "about/"
+    url        = "about/"
+    weight     = 30
