@@ -31,13 +31,16 @@ install.packages("swirl")
 library("swirl")
 ```
 
-## :school: Online Courses
+## :school: Online Courses and Tutorials
 
 - [Getting Started with R](https://rfortherestofus.com/courses/getting-started/) - free course by R for the Rest of Us
 
 - Data carpentry
   + [R for Social Scientists](https://datacarpentry.org/r-socialsci/)
   + [R for Ecologists](https://datacarpentry.org/R-ecology-lesson/)
+
+- [R for beginners](https://www.rensvandeschoot.com/tutorials/r-for-beginners/) by Ihnwhi Heo, Duco Veen, and Rens van de Schoot
+
 
 ## :book: Textbooks
 
@@ -46,3 +49,5 @@ library("swirl")
 - [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) - open source textbook by Nathaniel Phillips
 
 - [An Introduction to R](https://intro2r.com/) - open source textbook by Alex Douglas *et al.*
+
+- [R for Excel users](https://rstudio-conf-2020.github.io/r-for-excel/) by by Julie Lowndes & Allison Horst
