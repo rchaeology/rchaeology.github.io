@@ -31,7 +31,7 @@ install.packages("swirl")
 library("swirl")
 ```
 
-## :school: Online Courses
+## :school: Online Courses and Tutorials
 
 - [Getting Started with R](https://rfortherestofus.com/courses/getting-started/) - free course by R for the Rest of Us
 
@@ -39,33 +39,12 @@ library("swirl")
   + [R for Social Scientists](https://datacarpentry.org/r-socialsci/)
   + [R for Ecologists](https://datacarpentry.org/R-ecology-lesson/)
 
-## Presentations/videos
-- [RMarkdown](https://slides.djnavarro.net/starting-rmarkdown/#1) by Danielle Navarro
-
-- [Data validation](https://allisonhorst.shinyapps.io/missingexplorer/) by Allison Horst
-
-- [Data visualisation](https://www.youtube.com/c/DanielleNavarro77) by Danielle Navarro
-
-- [Intro to R](https://nhs-r-community.github.io/intro_r/) by Andrew Jones and Ozayr Mohammed
-
-- [Introduction to GIS in R](https://annakrystalli.me/intro-r-gis/index.html) by Anna Krystalli
-
-
-## Tutorials
-- [Ggplot2](https://ggplot2tutor.com/beginner_tutorial/beginner_tutorial/)
-
-- [dplyer](https://allisonhorst.shinyapps.io/dplyr-learnr/) by Allison Horst
-
 - [R for beginners](https://www.rensvandeschoot.com/tutorials/r-for-beginners/) by Ihnwhi Heo, Duco Veen, and Rens van de Schoot
-
-- [Drawing Maps with ggplot2 and sf](https://r-spatial.org/r/2018/10/25/ggplot2-sf.html) by Mel Moreno and Mathieu Basille
 
 
 ## :book: Textbooks
 
 - [R for Data Science](https://r4ds.had.co.nz) - open source textbook by Hadley Wickham
-
-- [Data visualization](https://socviz.co/index.html#preface) by Kieran Healy
 
 - [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/) - open source textbook by Nathaniel Phillips
 
