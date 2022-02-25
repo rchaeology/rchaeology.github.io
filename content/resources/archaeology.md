@@ -16,14 +16,14 @@ categories:
 
 Here you will find a list of resources with very archaeology-specific applications, including
 slides and packages. You will be able to find a much more comprehensive list of resources
-on Ben Marwick's
+on Ben Marwick's [CRAN Task View for archaeology](https://github.com/benmarwick/ctv-archaeology).
 
 ## :package: Packages
 
 
 
 
-## Slides
+## 👩‍🏫 Slides
 
 [Statistical inference and data exploration for archaeologists](https://benmarwick.github.io/stat-inference-and-exploration-for-archaeologists/stat-inference-and-exploration-for-archaeologists.html#1) - Ben Marwick
 
@@ -43,8 +43,8 @@ on Ben Marwick's
 
 [Quantitative Methods in Archaeology Using R](https://www.cambridge.org/core/books/quantitative-methods-in-archaeology-using-r/DEAE593FA2418EA3B8ECD538C34ED2D5?fbclid=IwAR0guclfEtttfDkVKNUJWfhQ1wgUlXSKAIA3f_6D3hS_9EkUKivSY9AyFD8) - David L. Carson
 
-## Miscellaneous
+## 🤷 Miscellaneous
 
-Ben Marwick's ctv-archaeology
+[CRAN Task View archaeology](https://github.com/benmarwick/ctv-archaeology) - Ben Marwick
 
-https://github.com/Archaeo-Programmer/data-visualizations
+[Various data visualisations](https://github.com/Archaeo-Programmer/data-visualizations) - Andrew Gilreath-Brown
