@@ -20,8 +20,14 @@ on Ben Marwick's [CRAN Task View for archaeology](https://github.com/benmarwick/
 
 ## :package: Packages
 
+`install.packages()`
 
-
+- archdata
+- rcarbon
+- c14bazAAR
+- evoarchdata
+- zooaRch
+- leastcostpath
 
 ## 👩‍🏫 Slides
 
@@ -30,11 +36,13 @@ on Ben Marwick's [CRAN Task View for archaeology](https://github.com/benmarwick/
 
 ## :computer: Sites and Blogs
 
-<https://archaeoinformatics.net> - Sophie Schmidt
+[Archaeoinformatics](https://archaeoinformatics.net) - Sophie Schmidt
 
 [Plotting dental inventory with ggplot2](https://bjorn.rbind.io/post/dental-inv-plot/) - Bjørn Peare Bartholdy
 
-<https://anthro-data-science.github.io/>
+[The Open Archaeobotanist](https://ekaroune.github.io/The-Open-Archaeobotanist/) - Emma Karoune
+
+[anthro-data-science](https://anthro-data-science.github.io/)
 
 
 ## :books: Textbooks
