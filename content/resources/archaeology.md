@@ -28,11 +28,13 @@ on Ben Marwick's
 [Statistical inference and data exploration for archaeologists](https://benmarwick.github.io/stat-inference-and-exploration-for-archaeologists/stat-inference-and-exploration-for-archaeologists.html#1) - Ben Marwick
 
 
-## :computer: Blogs
+## :computer: Sites and Blogs
 
 <https://archaeoinformatics.net> - Sophie Schmidt
 
 [Plotting dental inventory with ggplot2](https://bjorn.rbind.io/post/dental-inv-plot/) - Bjørn Peare Bartholdy
+
+<https://anthro-data-science.github.io/>
 
 
 ## :books: Textbooks
