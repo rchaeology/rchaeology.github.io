@@ -1,12 +1,11 @@
 ---
 title: "Archaeology"
 date: 2022-02-04T20:15:12+01:00
-draft: true
+draft: false
 toc: true
 images:
-cover: "img/r_first_then_blank.png"
-alt: "Two figures standing in front of an open door with R above it."
-covercaption: "[**Image credit:** Allison Horst](https://github.com/allisonhorst/stats-illustrations)"
+cover: "img/Rchaeology.jpeg"
+alt: "A plot with the word Rchaeology, where the R is the logo for the R programming language."
 tags:
 categories: 
   - archaeology
@@ -15,7 +14,7 @@ categories:
 ## Purpose
 
 Here you will find a list of resources with very archaeology-specific applications, including
-slides and packages. You will be able to find a much more comprehensive list of resources
+slides, textbooks, and packages. You will be able to find a much more comprehensive list of resources
 on Ben Marwick's [CRAN Task View for archaeology](https://github.com/benmarwick/ctv-archaeology).
 
 ## :package: Packages
@@ -53,6 +52,6 @@ on Ben Marwick's [CRAN Task View for archaeology](https://github.com/benmarwick/
 
 ## 🤷 Miscellaneous
 
-[CRAN Task View archaeology](https://github.com/benmarwick/ctv-archaeology) - Ben Marwick
+[CRAN Task View: Archaeological Science](https://github.com/benmarwick/ctv-archaeology) - Ben Marwick
 
 [Various data visualisations](https://github.com/Archaeo-Programmer/data-visualizations) - Andrew Gilreath-Brown
