@@ -41,6 +41,8 @@ on Ben Marwick's [CRAN Task View for archaeology](https://github.com/benmarwick/
 
 [The Open Archaeobotanist](https://ekaroune.github.io/The-Open-Archaeobotanist/) - Emma Karoune
 
+[open-archaeo](https://open-archaeo.info/) - Zack Batist (Maintainer)
+
 [anthro-data-science](https://anthro-data-science.github.io/)
 
 
