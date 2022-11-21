@@ -162,9 +162,9 @@ disableHugoGeneratorInject = false
     name = "twitter"
     url  = "https://twitter.com/rchaeology1"
 
-#  [[params.social]]
-#    name = "email"
-#    url  = "mailto:nobody@example.com"
+  [[params.social]]
+    name = "mastodon"
+    url  = "https://archaeo.social/@Rchaeology"
 
   [[params.social]]
     name = "facebook"
