@@ -167,12 +167,12 @@ disableHugoGeneratorInject = false
     url  = "https://archaeo.social/@Rchaeology"
 
   [[params.social]]
-    name = "facebook"
-    url  = "https://www.facebook.com/groups/255505722163268"
-
-  [[params.social]]
     name = "github"
     url  = "https://github.com/rchaeology"
+
+  [[params.social]]
+    name = "matrix"
+    url  = "https://!PbiIJLjAtcWazoEOTD:archaeo.social"
 
   [[params.social]]
     name = "slack"
