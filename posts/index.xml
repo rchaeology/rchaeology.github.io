@@ -1,4 +1,52 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Rchaeology</title><link>https://rchaeology.github.io/posts/</link><description>Recent content in Posts on Rchaeology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Sun, 21 Nov 2021 00:00:00 +0200</lastBuildDate><atom:link href="https://rchaeology.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>print('Hello World')</title><link>https://rchaeology.github.io/posts/2021/11/printhello-world/</link><pubDate>Sun, 21 Nov 2021 00:00:00 +0200</pubDate><guid>https://rchaeology.github.io/posts/2021/11/printhello-world/</guid><description>New Website To increase our visibility, we have launched a new website (which you have obviously already found) using the Hello Friend NG Hugo theme, with some slight tweaks.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Rchaeology</title><link>https://rchaeology.github.io/posts/</link><description>Recent content in Posts on Rchaeology</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>&lt;a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0&lt;/a></copyright><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0200</lastBuildDate><atom:link href="https://rchaeology.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Into the Fediverse</title><link>https://rchaeology.github.io/posts/2023/06/into-the-fediverse/</link><pubDate>Mon, 19 Jun 2023 00:00:00 +0200</pubDate><guid>https://rchaeology.github.io/posts/2023/06/into-the-fediverse/</guid><description>By now you have most likely heard of the Fediverse. Lately it has gained momentum due to the acquisition of Twitter and its subsequent demise, causing so-called &amp;lsquo;migrations&amp;rsquo; to other platforms. Among them, Mastodon, one small part of the Fediverse.
+If not, or you want to learn more, see below. The Rchaeology community now has a Mastodon account and a chat on Element/Matrix (Slack alternative). Both are hosted on archaeo.social. Both are open source!</description><content type="html"><![CDATA[<p>By now you have most likely heard of the Fediverse. Lately it has gained
+momentum
+due to the acquisition of Twitter and its subsequent demise, causing
+so-called &lsquo;migrations&rsquo; to other platforms. Among them, Mastodon, one small
+part of the Fediverse.</p>
+<p>If not, or you want
+to learn more, see <a href="#what-fediverse">below</a>. The Rchaeology community now
+has a <a href="https://archaeo.social/@Rchaeology">Mastodon</a> account and a chat on
+Element/Matrix (Slack alternative). Both are hosted on <a href="about.archaeo.social">archaeo.social</a>.
+Both are open source!</p>
+<figure><img src="/img/rchaeo-platforms.png"
+         alt="A screenshot of the Rchaeology website home page showing off the new icons for Mastodon and Matrix" width="500pt"/><figcaption>
+            <p>New icons on the homepage!</p>
+        </figcaption>
+</figure>
+
+<h2 id="join-our-platforms">Join our platforms</h2>
+<p>You can access our platforms in a variety of different ways.
+Element is a common app to access a matrix chat. You can create a free
+account on the <a href="https://app.element.io/#/register">matrix server</a>
+or on <a href="https://chat.archaeo.social/#/register">archaeo.social</a>. If neither of
+those options are your particular cup of tea, you can locate a server on this
+<a href="https://joinmatrix.org/servers/">list</a>. Or if you want complete control
+over your data, you can host your own server and join the conversations!</p>
+<p>If you use Thunderbird you can also access the matrix chats there, or
+use RSS feed readers to follow Mastodon accounts. That&rsquo;s the beauty of
+the open standard protocols underlying the Fediverse!</p>
+<p>We still have a Twitter account and a Slack workspace, but the hope is that
+these will eventually be phased out.</p>
+<p>If you use an RSS feed or Thunderbird you can also subscribe to our Mastodon toots by
+adding <a href="https://archaeo.social/@Rchaeology.rss">https://archaeo.social/@Rchaeology.rss</a> to your feed! If you didn&rsquo;t know that
+you can subscribe to RSS feeds with Thunderbird, see <a href="https://blog.thunderbird.net/2022/05/thunderbird-rss-feeds-guide-favorite-content-to-the-inbox/">this cool blog post</a>!</p>
+<p>There are costs associated with running the archaeo.social server,
+so please consider donating via <a href="https://opencollective.com/archaeosocial">opencollective</a>.</p>
+<h2 id="what-fediverse">What is the Fediverse</h2>
+<blockquote>
+<p>The fediverse is a collection of community-owned, ad-free, decentralised, and privacy-centric social networks.
+<a href="https://www.fediverse.to/">https://www.fediverse.to/</a></p>
+</blockquote>
+<p>The concept is similar to that of email. Just because you have your email
+account with outlook, gmail, or proton, doesn&rsquo;t mean you are limited to
+communicating with others with an account with the same company. That would be very
+limiting and REALLY annoying. Yet, this is exactly what&rsquo;s happening with social
+media platforms. If you&rsquo;re on Twitter (sorry, X&hellip;) you&rsquo;re limited to interacting
+with others on Twitter. Facebook with other users on Facebook.
+Sure, you can cross-post between Facebook and Instagram, but that&rsquo;s still within
+Meta platforms, so they are in control.</p>
+]]></content></item><item><title>print('Hello World')</title><link>https://rchaeology.github.io/posts/2021/11/printhello-world/</link><pubDate>Sun, 21 Nov 2021 00:00:00 +0200</pubDate><guid>https://rchaeology.github.io/posts/2021/11/printhello-world/</guid><description>New Website To increase our visibility, we have launched a new website (which you have obviously already found) using the Hello Friend NG Hugo theme, with some slight tweaks.
 Goals With this new platform, we aim to provide a convenient, centralised location for all your Rchaeological needs, from general R resources for beginners, to more advanced R topics in archaeology and related disciplines.
 We will offer occasional posts on various topics on a completely unpredictable schedule.</description><content type="html"><![CDATA[<h2 id="new-website">New Website</h2>
 <p>To increase our visibility, we have launched a new website (which you have obviously
