@@ -176,7 +176,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "slack"
-    url  = "https://rchaeology.slack.com"
+    url  = "https://join.slack.com/t/rchaeology/shared_invite/zt-n2yay4x0-u8b_oStWEDDBcFfDOVxkEw"
 
 [languages]
   [languages.en]
